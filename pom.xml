@@ -23,7 +23,7 @@
 
   <properties>
     <mavenVersion>3.3.9</mavenVersion>
-    <slf4jVersion>1.7.24</slf4jVersion>
+    <slf4jVersion>1.7.30</slf4jVersion>
     <logbackVersion>1.2.1</logbackVersion>
     <pluginTestingVersion>2.9.1</pluginTestingVersion>
 
