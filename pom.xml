@@ -17,13 +17,13 @@
 
   <groupId>io.takari.maven</groupId>
   <artifactId>concurrent-build-logger</artifactId>
-  <version>0.2.1</version>
+  <version>0.2.2-SNAPSHOT</version>
   <packaging>takari-maven-component</packaging>
 
   <scm>
     <connection>scm:git:git@github.com:takari/concurrent-build-logger.git</connection>
     <developerConnection>scm:git:git@github.com:takari/concurrent-build-logger.git</developerConnection>
-    <tag>concurrent-build-logger-0.2.1</tag>
+    <tag>HEAD</tag>
     <url>https://github.com/takari/concurrent-build-logger</url>
   </scm>
 
