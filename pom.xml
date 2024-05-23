@@ -20,6 +20,13 @@
   <version>0.2.1-SNAPSHOT</version>
   <packaging>takari-maven-component</packaging>
 
+  <scm>
+    <connection>scm:git:git@github.com:takari/concurrent-build-logger.git</connection>
+    <developerConnection>scm:git:git@github.com:takari/concurrent-build-logger.git</developerConnection>
+    <tag>HEAD</tag>
+    <url>https://github.com/takari/concurrent-build-logger</url>
+  </scm>
+
   <properties>
     <mavenVersion>3.9.6</mavenVersion>
     <slf4jVersion>1.7.36</slf4jVersion>
